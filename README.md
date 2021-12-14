@@ -14,10 +14,12 @@
 	专业：信息安全
 
     科研领域
+    
 1.Dynamic Network: including sample adaptive inference and efficient computing.
 2.Autonomous Vehicles: including 3D point cloud segmentation and detection.
 
     研究成果
+    
 1.Huanyu Wang, Zequn Qin, Songyuan Li, and Xi Li. CoDiNet: Path Distribution Modeling with Consistency and Diversity for Dynamic Routing. IEEE Transactions on Pattern Analysis and Machine Intelligence. (TPAMI), 2021. 
 
 2.Huanyu Wang, Songyuan Li, Shihao Su, Zequn Qin, and Xi Li. RDI-Net: Relational Dynamic Inference Network. Proceedings of IEEE International Conference on Computer Vision (ICCV), 2021. 
