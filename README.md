@@ -4,7 +4,7 @@
 研究方向： 动态网络，自动驾驶，神经网络搜索.
 
 教育背景   
-* 08/2019 – 至今  &emsp; &emsp; 	<img src="huanyu.png" width="20%" align='right'>浙江大学&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; 博士学位&emsp;&nbsp; <br> 专业：人工智能  &emsp; 导师：李玺 <br>
+* 08/2019 – 至今  &emsp; &emsp; 	<img src="huanyu.png" width="15%" align='right'>浙江大学&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; 博士学位&emsp;&nbsp; <br> 专业：人工智能  &emsp; 导师：李玺 <br>
 * 08/2016 - 05/2017 &emsp;	新加坡国立大学 &nbsp;&nbsp;&nbsp;	硕士学位 &emsp; <br>	专业：计算机科学 <br>
 * 09/2011 - 07/2015 &emsp;	东北大学	&nbsp;&emsp;&emsp;&emsp;&emsp;  学士学位	 &emsp; <br>专业：信息安全
 
