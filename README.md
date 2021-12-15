@@ -9,8 +9,8 @@
 
 科研领域
     
->* Dynamic Network: including sample adaptive inference and efficient computing.
->* item Autonomous Vehicles: including 3D point cloud segmentation and detection.
+* Dynamic Network: including sample adaptive inference and efficient computing.
+* item Autonomous Vehicles: including 3D point cloud segmentation and detection.
 
 研究成果
     
