@@ -4,9 +4,9 @@ Mail: <huanyuhello@zju.edu.cn>	&nbsp;
 
 <h2>Education</h2>       <img src="huanyu.png" width="15%" align='right'>
 
-* 08/2019 – now  &emsp; &emsp; 	<p style="text-align:left;">ZheJiang Unviersity &nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; <span style="float:left;">Doctor&emsp;&nbsp;  Artificial Intelligence  &emsp; mentor：Xi Li</span></p> <br>
-* 08/2016 - 05/2017 &emsp;	<p style="text-align:left;">National Unviersity of Singapore &nbsp;&nbsp;&nbsp; <span style="float:left;">Master &emsp; Computer Science </span></p><br>
-* 09/2011 - 07/2015 &emsp;	<p style="text-align:left;">Northeastern University</span></p>   &nbsp;&emsp;&emsp;&emsp;&emsp;  <span style="float:left;">Bachelor	 &emsp;  Infomation Security </span></p>
+* <p style="text-align:left;">08/2019 – now  &emsp; &emsp; <span style="float:left;">	ZheJiang Unviersity &nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; <span style="float:left;">Doctor&emsp;&nbsp;  Artificial Intelligence  &emsp; mentor：Xi Li</span></p> <br>
+* <p style="text-align:left;">08/2016 - 05/2017 &emsp;	<span style="float:left;">National Unviersity of Singapore &nbsp;&nbsp;&nbsp; <span style="float:left;">Master &emsp; Computer Science </span></p><br>
+* <p style="text-align:left;">09/2011 - 07/2015 &emsp;	<span style="float:left;">Northeastern University</span></p>   &nbsp;&emsp;&emsp;&emsp;&emsp;  <span style="float:left;">Bachelor	 &emsp;  Infomation Security </span></p>
 
 <h2>Research</h2>    
 
