@@ -11,7 +11,7 @@
 <h2>Research</h2>    
 
 * <font face="Times New Roman">Dynamic Network: including sample adaptive inference and efficient computing.
-* <font face="Times New Roman">Autonomous Vehicles: including 3D point cloud segmentation and detection.
+* <font face="Times New Roman">Autonomous Vehicles: including 3D LiDAR point cloud segmentation and detection.
 * <font face="Times New Roman">Neural Architecture Search: including network design and Auto-ML.
 
 <h2>Publication</h2>
