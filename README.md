@@ -1,6 +1,6 @@
 <h2>王环宇</h2> 
 
-<font face="Times New Roman">Mail:</font> <huanyuhello@zju.edu.cn>	&nbsp;    	
+<font face="Times New Roman">Mail:</font><huanyuhello@zju.edu.cn>	&nbsp;    	
 <img src="huanyu.png" width="15%" align='right'>
 <h2>Education</h2>       
 
@@ -16,9 +16,9 @@
 
 <h2>Publication</h2>
     
-* **Huanyu Wang**, Zequn Qin, Songyuan Li, and Xi Li. *CoDiNet: Path Distribution Modeling with Consistency and Diversity for Dynamic Routing.* <font face="Times New Roman">IEEE Transactions on Pattern Analysis and Machine Intelligence. (TPAMI), 2021.</font> [[paper](https://ieeexplore.ieee.org/document/9444192)]
+* **Huanyu Wang**, Zequn Qin, Songyuan Li, and Xi Li. *CoDiNet: Path Distribution Modeling with Consistency and Diversity for Dynamic Routing.* <font face="Times New Roman">IEEE Transactions on Pattern Analysis and Machine Intelligence. (TPAMI), 2021.</font>[[paper](https://ieeexplore.ieee.org/document/9444192)]
 
-* **Huanyu Wang**, Songyuan Li, Shihao Su, Zequn Qin, and Xi Li. *RDI-Net: Relational Dynamic Inference Network.* Proceedings of IEEE International Conference on Computer Vision (ICCV), 2021. </font>[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_RDI-Net_Relational_Dynamic_Inference_Networks_ICCV_2021_paper.pdf)]
+* **Huanyu Wang**, Songyuan Li, Shihao Su, Zequn Qin, and Xi Li. *RDI-Net: Relational Dynamic Inference Network.* <font face="Times New Roman">Proceedings of IEEE International Conference on Computer Vision (ICCV), 2021. </font>[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_RDI-Net_Relational_Dynamic_Inference_Networks_ICCV_2021_paper.pdf)]
 
 * **Huanyu Wang**, Shihao Su, Hao Zeng, HanBin Zhao, anf Xi Li. *Federated LiDAR Point Clouds Segmentation in Autonomous Driving.* <font face="Times New Roman">Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2022. </font>(Under Review)
 
