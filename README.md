@@ -13,7 +13,7 @@
 * Dynamic Network: including sample adaptive inference and efficient computing.
 * Autonomous Vehicles: including 3D point cloud segmentation and detection.
 
-研究成果
+<h2>Publications</h2>
     
 * **Huanyu Wang**, Zequn Qin, Songyuan Li, and Xi Li. *CoDiNet: Path Distribution Modeling with Consistency and Diversity for Dynamic Routing.* IEEE Transactions on Pattern Analysis and Machine Intelligence. (TPAMI), 2021. [[paper](https://ieeexplore.ieee.org/document/9444192)]
 
