@@ -1,6 +1,7 @@
 <h2>王环宇</h2> 
 
-<font face="Times New Roman">Mail: <huanyuhello@zju.edu.cn> </font>	&nbsp;    	
+Mail: <huanyuhello@zju.edu.cn> 	&nbsp;    	
+
 <img src="huanyu.png" width="15%" align='right'>
 <h2>Education</h2>       
 
