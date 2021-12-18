@@ -11,11 +11,11 @@
 科研领域
     
 * Dynamic Network: including sample adaptive inference and efficient computing.
-* item Autonomous Vehicles: including 3D point cloud segmentation and detection.
+* Autonomous Vehicles: including 3D point cloud segmentation and detection.
 
 研究成果
     
-* **Huanyu Wang**, Zequn Qin, Songyuan Li, and Xi Li. *CoDiNet: Path Distribution Modeling with Consistency and Diversity for Dynamic Routing.* IEEE Transactions on Pattern Analysis and Machine Intelligence. (TPAMI), 2021. [paper](https://ieeexplore.ieee.org/document/9444192)
+* **Huanyu Wang**, Zequn Qin, Songyuan Li, and Xi Li. *CoDiNet: Path Distribution Modeling with Consistency and Diversity for Dynamic Routing.* IEEE Transactions on Pattern Analysis and Machine Intelligence. (TPAMI), 2021. [[paper](https://ieeexplore.ieee.org/document/9444192)]
 
 * **Huanyu Wang**, Songyuan Li, Shihao Su, Zequn Qin, and Xi Li. *RDI-Net: Relational Dynamic Inference Network.* Proceedings of IEEE International Conference on Computer Vision (ICCV), 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_RDI-Net_Relational_Dynamic_Inference_Networks_ICCV_2021_paper.pdf)
 
