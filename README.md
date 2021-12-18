@@ -4,15 +4,15 @@ Mail: <huanyuhello@zju.edu.cn>	&nbsp;
 <img src="huanyu.png" width="15%" align='right'>
 <h2>Education</h2>       
 
-* 2019-08 – now  &emsp; &emsp; 	ZheJiang Unviersity &nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; Doctor&emsp;&nbsp;  Artificial Intelligence  &emsp; Mentor：Xi Li
-* 2016-08 - 2017-05 &emsp;	National Unviersity of Singapore &nbsp;&nbsp;&nbsp; Master &emsp; Computer Science
-* 2011-08 - 2015-07 &emsp;	Northeastern University   &nbsp;&emsp;&emsp;&emsp;&emsp;  Bachelor	 &emsp;  Infomation Security 
+* <font face="Times New Roman">2019-08 – now  &emsp; &emsp; 	ZheJiang Unviersity &nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; Doctor&emsp;&nbsp;  Artificial Intelligence  &emsp; Mentor：Xi Li</font>
+* <font face="Times New Roman">2016-08 - 2017-05 &emsp;	National Unviersity of Singapore &nbsp;&nbsp;&nbsp; Master &emsp; Computer Science</font>
+* <font face="Times New Roman">2011-08 - 2015-07 &emsp;	Northeastern University   &nbsp;&emsp;&emsp;&emsp;&emsp;  Bachelor	 &emsp;  Infomation Security </font>
 
 <h2>Research</h2>    
 
-* Dynamic Network: including sample adaptive inference and efficient computing.
-* Autonomous Vehicles: including 3D point cloud segmentation and detection.
-* Neural Architecture Search: including network design and Auto-ML.
+* <font face="Times New Roman">Dynamic Network: including sample adaptive inference and efficient computing.
+* <font face="Times New Roman">Autonomous Vehicles: including 3D point cloud segmentation and detection.
+* <font face="Times New Roman">Neural Architecture Search: including network design and Auto-ML.
 
 <h2>Publication</h2>
     
