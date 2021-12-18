@@ -1,8 +1,8 @@
 # 王环宇  
 
 Mail: <huanyuhello@zju.edu.cn>	&nbsp;    	
-
-<h2>Education</h2>       <img src="huanyu.png" width="15%" align='right'>
+<img src="huanyu.png" width="15%" align='right'>
+<h2>Education</h2>       
 
 * 2019-08 – now  &emsp; &emsp; 	ZheJiang Unviersity &nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; Doctor&emsp;&nbsp;  Artificial Intelligence  &emsp; Mentor：Xi Li
 * 2016-08 - 2017-05 &emsp;	National Unviersity of Singapore &nbsp;&nbsp;&nbsp; Master &emsp; Computer Science
