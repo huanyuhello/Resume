@@ -4,9 +4,9 @@ Mail: <huanyuhello@zju.edu.cn>	&nbsp;
 
 <h2>Education</h2>       <img src="huanyu.png" width="15%" align='right'>
 
-* 08/2019 – now  &emsp; &emsp; 	ZheJiang Unviersity&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; Doctor&emsp;&nbsp;  Artificial Intelligence  &emsp; mentor：Xi Li <br>
-* 08/2016 - 05/2017 &emsp;	National Unviersity of Singapore &nbsp;&nbsp;&nbsp;	Master &emsp; Computer Science <br>
-* 09/2011 - 07/2015 &emsp;	Northeastern University   &nbsp;&emsp;&emsp;&emsp;&emsp;  Bachelor	 &emsp;  Infomation Security 
+* 08/2019 – now  &emsp; &emsp; 	<p style="text-align:left;">ZheJiang Unviersity</span></p> &nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; Doctor&emsp;&nbsp;  Artificial Intelligence  &emsp; mentor：Xi Li <br>
+* 08/2016 - 05/2017 &emsp;	<p style="text-align:left;">National Unviersity of Singapore</span></p> &nbsp;&nbsp;&nbsp;	Master &emsp; Computer Science <br>
+* 09/2011 - 07/2015 &emsp;	<p style="text-align:left;">Northeastern University</span></p>   &nbsp;&emsp;&emsp;&emsp;&emsp;  Bachelor	 &emsp;  Infomation Security 
 
 <h2>Research</h2>    
 
