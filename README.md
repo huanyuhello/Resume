@@ -36,6 +36,7 @@ Mail: <huanyuhello@zju.edu.cn> 	&nbsp;
 * Hao Zeng, **Huanyu Wang**, Shihao Su, Bin Li, Xi Li. *Self-Improved Learning for Salient Object Detection.* <font face="Times New Roman">IEEE Transactions on Image Processing (TIP), 2021. </font>(Under Review)
 	
 <h2>Competitions</h2>
+	
 * <font face="Times New Roman"> 06/2015                     National 1st Prize, 14th National College Robot Contest </font>
 * <font face="Times New Roman"> 05/2014                     National 1st Prize, 13th National College Robot Contest </font>
 * <font face="Times New Roman"> 06/2013                     National Trials1st Prize, 2013 ABU AsiaPacific Robot Contest </font>
