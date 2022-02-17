@@ -5,9 +5,9 @@ Mail: <huanyuhello@zju.edu.cn> 	&nbsp;
 <img src="huanyu.png" width="15%" align='right'>
 <h2>Education</h2>       
 
-* <font face="Times New Roman">2019-08 – now  &emsp; &emsp; 	ZheJiang Unviersity &nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; Doctor&emsp;&nbsp;  Artificial Intelligence  &emsp; Mentor：Xi Li</font>
-* <font face="Times New Roman">2016-08 - 2017-05 &emsp;	National Unviersity of Singapore &nbsp;&nbsp;&nbsp; Master &emsp; Computer Science</font>
-* <font face="Times New Roman">2011-08 - 2015-07 &emsp;	Northeastern University   &nbsp;&emsp;&emsp;&emsp;&emsp;  Bachelor	 &emsp;  Infomation Security </font>
+* <font face="Times New Roman">2019-08 ~ Now  &emsp; &emsp; 	ZheJiang Unviersity &nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; Doctor&emsp;&nbsp;  Artificial Intelligence  &emsp; Mentor：Xi Li</font>
+* <font face="Times New Roman">2016-08 ~ 2017-05 &emsp;	National Unviersity of Singapore &nbsp;&nbsp;&nbsp; Master &emsp; Computer Science</font>
+* <font face="Times New Roman">2011-08 ~ 2015-07 &emsp;	Northeastern University   &nbsp;&emsp;&emsp;&emsp;&emsp;  Bachelor	 &emsp;  Infomation Security </font>
 
 <h2>Research</h2>    
 
