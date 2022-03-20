@@ -21,7 +21,9 @@ Mail: <huanyuhello@zju.edu.cn> 	&nbsp;
 
 * **Huanyu Wang**, Songyuan Li, Shihao Su, Zequn Qin, and Xi Li. <font face="Times New Roman">RDI-Net: Relational Dynamic Inference Network.</font> *Proceedings of IEEE International Conference on Computer Vision (ICCV)*, 2021. </font>[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_RDI-Net_Relational_Dynamic_Inference_Networks_ICCV_2021_paper.pdf)]
 
-* **Huanyu Wang**, Shihao Su, Hao Zeng, HanBin Zhao, anf Xi Li. <font face="Times New Roman">Federated LiDAR Point Clouds Segmentation in Autonomous Driving.</font> *Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022. (Under Review)
+* **Huanyu Wang**, Shihao Su, Hao Zeng, HanBin Zhao, anf Xi Li. <font face="Times New Roman">Federated LiDAR Point Clouds Segmentation in Autonomous Driving.</font> *IEEE Transactions on Pattern Analysis and Machine Intelligence. (TPAMI)*, 2022. (Under Review)
+
+* **Huanyu Wang**, Wenhu Zhang, Hui Wang, Zhenwei Miao, Xin Zhan, and Xi Li. <font face="Times New Roman">SP-Net: Slowly Progressing Dynamic Inference Network.</font> *Proceedings of European Conference on Computer Vision (ECCV)*, 2022. (Under Review)
 
 * Zequn Qin, **Wang Huanyu**, and Xi Li, <font face="Times New Roman">Ultra-Fast Structure-aware Deep Lane Detection.</font> *Proceedings of European Conference on Computer Vision (ECCV)*, 2020. [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690273.pdf)]
 
