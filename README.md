@@ -17,15 +17,15 @@ Mail: <huanyuhello@zju.edu.cn> 	&nbsp;
 
 <h2>Publication</h2>
     
-* **Huanyu Wang**, Zequn Qin, Songyuan Li, and Xi Li. <font face="Times New Roman">CoDiNet: Path Distribution Modeling with Consistency and Diversity for Dynamic Routing.</font> *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2021.[[paper](https://ieeexplore.ieee.org/document/9444192)]
+* **Huanyu Wang**, Zequn Qin, Songyuan Li, and Xi Li. <font face="Times New Roman">CoDiNet: Path Distribution Modeling with Consistency and Diversity for Dynamic Routing.</font> *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2021.[[paper](https://ieeexplore.ieee.org/document/9444192)][[code](https://github.com/huanyuhello/CoDiNet)]
 
-* **Huanyu Wang**, Songyuan Li, Shihao Su, Zequn Qin, and Xi Li. <font face="Times New Roman">RDI-Net: Relational Dynamic Inference Network.</font> *Proceedings of IEEE International Conference on Computer Vision (ICCV)*, 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_RDI-Net_Relational_Dynamic_Inference_Networks_ICCV_2021_paper.pdf)]
+* **Huanyu Wang**, Songyuan Li, Shihao Su, Zequn Qin, and Xi Li. <font face="Times New Roman">RDI-Net: Relational Dynamic Inference Network.</font> *Proceedings of IEEE International Conference on Computer Vision (ICCV)*, 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_RDI-Net_Relational_Dynamic_Inference_Networks_ICCV_2021_paper.pdf)][[code](https://github.com/huanyuhello/RDI-Net)]
 
 * **Huanyu Wang**, Shihao Su, Hao Zeng, HanBin Zhao, anf Xi Li. <font face="Times New Roman">Federated LiDAR Point Clouds Segmentation in Autonomous Driving.</font> *IEEE Transactions on Pattern Analysis and Machine Intelligence. (TPAMI)*, 2022. (Under Review)
 
 * **Huanyu Wang**, Wenhu Zhang, Hui Wang, Zhenwei Miao, Xin Zhan, and Xi Li. <font face="Times New Roman">SP-Net: Slowly Progressing Dynamic Inference Network.</font> *Proceedings of European Conference on Computer Vision (ECCV)*, 2022. (Under Review)
 
-* Zequn Qin, **Wang Huanyu**, and Xi Li, <font face="Times New Roman">Ultra-Fast Structure-aware Deep Lane Detection.</font> *Proceedings of European Conference on Computer Vision (ECCV)*, 2020. [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690273.pdf)]
+* Zequn Qin, **Wang Huanyu**, and Xi Li, <font face="Times New Roman">Ultra-Fast Structure-aware Deep Lane Detection.</font> *Proceedings of European Conference on Computer Vision (ECCV)*, 2020. [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690273.pdf)][[code](https://github.com/huanyuhello/Ultra-Fast-Lane-Detection)]
 
 * Peng Sun, Wenhu Zhang, **Huanyu Wang**, Songyuan Li, and Xi Li. <font face="Times New Roman">Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion.</font> *Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Deep_RGB-D_Saliency_Detection_With_Depth-Sensitive_Attention_and_Automatic_Multi-Modal_CVPR_2021_paper.pdf)]
 
