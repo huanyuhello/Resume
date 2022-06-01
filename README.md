@@ -17,7 +17,7 @@ Mail: <huanyuhello@zju.edu.cn> 	&nbsp;
 
 <h2>Publication</h2>
     
-* **Huanyu Wang**, Zequn Qin, Songyuan Li, and Xi Li. <font face="Times New Roman">CoDiNet: Path Distribution Modeling with Consistency and Diversity for Dynamic Routing.</font> *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2021.[[paper](https://ieeexplore.ieee.org/document/9444192)][[code](https://github.com/huanyuhello/CoDiNet)]
+* **Huanyu Wang**, Zequn Qin, Songyuan Li, and Xi Li. <font face="Times New Roman">CoDiNet: Path Distribution Modeling with Consistency and Diversity for Dynamic Routing.</font> *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2021. [[paper](https://ieeexplore.ieee.org/document/9444192)][[code](https://github.com/huanyuhello/CoDiNet)]
 
 * **Huanyu Wang**, Songyuan Li, Shihao Su, Zequn Qin, and Xi Li. <font face="Times New Roman">RDI-Net: Relational Dynamic Inference Network.</font> *Proceedings of IEEE International Conference on Computer Vision (ICCV)*, 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_RDI-Net_Relational_Dynamic_Inference_Networks_ICCV_2021_paper.pdf)][[code](https://github.com/huanyuhello/RDI-Net)]
 
