@@ -23,13 +23,13 @@ Mail: <huanyuhello@zju.edu.cn> 	&nbsp;
 
 * **Huanyu Wang**, Shihao Su, Hao Zeng, HanBin Zhao, anf Xi Li. <font face="Times New Roman">Federated LiDAR Point Clouds Segmentation in Autonomous Driving.</font> *IEEE Transactions on Pattern Analysis and Machine Intelligence. (TPAMI)*, 2022. (Under Review)
 
-* **Huanyu Wang**, Wenhu Zhang, Hui Wang, Zhenwei Miao, Xin Zhan, and Xi Li. <font face="Times New Roman">SP-Net: Slowly Progressing Dynamic Inference Network.</font> *Proceedings of European Conference on Computer Vision (ECCV)*, 2022. (Under Review)
+* **Huanyu Wang**, Wenhu Zhang, Hui Wang, Zhenwei Miao, Xin Zhan, and Xi Li. <font face="Times New Roman">SP-Net: Slowly Progressing Dynamic Inference Network.</font> *Proceedings of European Conference on Computer Vision (ECCV)*, 2022. 
 
 * Zequn Qin, **Wang Huanyu**, and Xi Li, <font face="Times New Roman">Ultra-Fast Structure-aware Deep Lane Detection.</font> *Proceedings of European Conference on Computer Vision (ECCV)*, 2020. [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690273.pdf)][[code](https://github.com/huanyuhello/Ultra-Fast-Lane-Detection)]
 
 * Peng Sun, Wenhu Zhang, **Huanyu Wang**, Songyuan Li, and Xi Li. <font face="Times New Roman">Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion.</font> *Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Deep_RGB-D_Saliency_Detection_With_Depth-Sensitive_Attention_and_Automatic_Multi-Modal_CVPR_2021_paper.pdf)]
 
-* Wenhu Zhang, Liangli Zheng, **Huanyu Wang**, Xintian Wu, and Xi Li. <font face="Times New Roman">Hierarchical Saliency Modeling with Generative Kernels for Salient Objects Detection.</font> *Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022. (Under Review)
+* Wenhu Zhang, Liangli Zheng, **Huanyu Wang**, Xintian Wu, and Xi Li. <font face="Times New Roman">Hierarchical Saliency Modeling with Generative Kernels for Salient Objects Detection.</font> *Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022. 
 
 * Xintian Wu, Qihang Zhang, Yiming Wu, **Huanyu Wang**, Songyuan Li, Bin Li, and Xi Li. <font face="Times New Roman">F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks.</font> *IEEE Transactions on Image Processing (TIP)*, 2021. [[paper](https://ieeexplore.ieee.org/document/9547053)]
 
